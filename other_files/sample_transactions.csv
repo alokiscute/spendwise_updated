@@ -1,0 +1,11 @@
+sno,transaction_name,transaction_amount,category,date,type,is_want,merchant
+1,"Monthly Groceries",4500,food,2025-04-15,expense,false,"Fresh Market"
+2,"Rent Payment",15000,housing,2025-04-01,expense,false,"ABC Properties"
+3,"Movie Night",1200,entertainment,2025-04-10,expense,true,"PVR Cinemas"
+4,"Salary Credit",75000,income,2025-04-05,income,false,"XYZ Corp"
+5,"Restaurant Dinner",2500,food,2025-04-18,expense,true,"Tasty Bites"
+6,"Electricity Bill",2000,utilities,2025-04-20,expense,false,"Power Company"
+7,"Online Shopping",3500,shopping,2025-04-12,expense,true,"Amazon"
+8,"Health Insurance",2000,healthcare,2025-04-03,expense,false,"Health Insure"
+9,"Gym Membership",1500,fitness,2025-04-02,expense,false,"Fitness Plus"
+10,"Savings Deposit",10000,savings,2025-04-05,expense,false,"HDFC Bank"
